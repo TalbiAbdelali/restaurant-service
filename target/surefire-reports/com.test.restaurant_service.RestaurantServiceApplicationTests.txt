@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.test.restaurant_service.RestaurantServiceApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.424 s -- in com.test.restaurant_service.RestaurantServiceApplicationTests
